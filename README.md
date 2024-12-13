@@ -1,6 +1,6 @@
 # Wallet Payment System
 
-Welcome to the **Wallet Payment System**! This project is designed to simulate a digital wallet experience, complete with features for managing accounts, sending and requesting money, and analyzing transaction data. It's a great tool to showcase your skills in database management and Python programming. 🚀
+Welcome to the **Wallet Payment System**! This project is our final deliverable for CS631 DMSD designed to simulate a digital wallet experience, complete with features for managing accounts, sending and requesting money, and analyzing transaction data. It's a great tool to showcase your skills in database management and programming. 🚀
 
 ## Features
 
@@ -61,5 +61,5 @@ Add some screenshots of your application here to show how it works!
 
 ---
 
-Feel free to fork this project or reach out with ideas! Let's build something awesome. 😄
+Feel free to fork this project or reach out with ideas!
 
