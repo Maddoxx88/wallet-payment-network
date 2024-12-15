@@ -878,7 +878,8 @@ def main():
                     print("3. Request Money")
                     print("4. Statements")
                     print("5. Account Management")
-                    print("6. Sign Out")
+                    print("6. Payment Methods")
+                    print("7. Sign Out")
                     
                     menu_choice = input("Enter your choice: ")
                     
