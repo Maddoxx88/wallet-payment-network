@@ -1,6 +1,6 @@
 # Wallet Payment Network System
 
-Welcome to the **Wallet Payment System**! This project is our final deliverable for CS631 DMSD designed to simulate a digital wallet experience, complete with features for managing accounts, sending and requesting money, and analyzing transaction data. It's a great tool to showcase your skills in database management and programming. 🚀
+Welcome to the **Wallet Payment Network System**! This project is our final deliverable for CS631 DMSD designed to simulate a digital wallet experience, complete with features for managing accounts, sending and requesting money, and analyzing transaction data. It's a great tool to showcase your skills in database management and programming. 🚀
 
 ## Features
 
