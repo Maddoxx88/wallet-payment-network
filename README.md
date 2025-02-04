@@ -49,7 +49,6 @@ Welcome to the **Wallet Payment Network System**! This project is our final deli
    ```
 
 ## Screenshots
-Add some screenshots of your application here to show how it works!
 - The main menu
 - Sending money
 - Viewing statements
